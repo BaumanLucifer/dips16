@@ -83,8 +83,10 @@
 
 ![18](https://github.com/BaumanLucifer/dips16/blob/master/img/18.PNG)
 
-Создаю расписание для снимков (сами снимки создаютсяв 03:00)
+Создаю расписание для снимков 
 
 ![19](https://github.com/BaumanLucifer/dips16/blob/master/img/19.PNG)
+
+![20](https://github.com/BaumanLucifer/dips16/blob/master/img/20%20%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D0%B2.PNG)
 
 **Работа выполнена**
